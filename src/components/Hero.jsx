@@ -1,6 +1,5 @@
 import Button from "./Button";
 import Devfolio from "../assets/devfolio.svg"
-import Dates from "./Dates";
 import Piggy from "../assets/piggy.svg"
 import Logo from "../assets/logo1.svg"
 
