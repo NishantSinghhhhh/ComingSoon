@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* index.css */
+
 @font-face {
   font-family: 'AngryBirds';
   src: url('../public/fonts/angrybirds-regular.ttf') format('truetype');
